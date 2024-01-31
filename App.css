@@ -1,0 +1,6 @@
+.mainrow{
+    margin-left: 200px!important;
+}
+select,option{
+    border: none;
+}
